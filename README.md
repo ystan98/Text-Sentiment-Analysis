@@ -16,3 +16,9 @@ Since it is dangerous to have false positives,such as showing text content promo
 This dataset comprises text content and their respective sentiments. We will be using the 
 smaller dataset (for testing) for our project as the large dataset (for training) has too many 
 records.The smaller dataset selected here has 498 records
+
+# Testing my model
+![image](https://user-images.githubusercontent.com/66168700/204096526-86e27871-6b04-48d7-8007-295526e0c835.png)
+
+![image](https://user-images.githubusercontent.com/66168700/204096530-8529d07f-948e-4208-927d-d4cb7225caf2.png)
+
