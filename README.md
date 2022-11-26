@@ -8,11 +8,11 @@ Since it is dangerous to have false positives,such as showing text content promo
 
 # Dataset used
 
-# 1) Emotions from Text - Dataset source: https://www.kaggle.com/datasets/ishantjuyal/emotions-in-text
+1) Emotions from Text - Dataset source: https://www.kaggle.com/datasets/ishantjuyal/emotions-in-text
 
-# 2) Tweet Emotions - Dataset source: https://www.kaggle.com/datasets/pashupatigupta/emotion-detection-from-text
+2) Tweet Emotions - Dataset source: https://www.kaggle.com/datasets/pashupatigupta/emotion-detection-from-text
 
-# 3) Sentiment140 - Dataset source:  http://help.sentiment140.com/for-students
+3) Sentiment140 - Dataset source:  http://help.sentiment140.com/for-students
 This dataset comprises text content and their respective sentiments. We will be using the 
 smaller dataset (for testing) for our project as the large dataset (for training) has too many 
 records.The smaller dataset selected here has 498 records
