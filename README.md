@@ -18,7 +18,5 @@ smaller dataset (for testing) for our project as the large dataset (for training
 records.The smaller dataset selected here has 498 records
 
 # Testing my model
-![image](https://user-images.githubusercontent.com/66168700/204096526-86e27871-6b04-48d7-8007-295526e0c835.png)
-
-![image](https://user-images.githubusercontent.com/66168700/204096530-8529d07f-948e-4208-927d-d4cb7225caf2.png)
+![image](https://user-images.githubusercontent.com/66168700/204096557-c9d5e032-83ac-4d92-b7e7-79e207e2deae.png)
 
